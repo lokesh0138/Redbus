@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="99236" started-at="2021-01-05T02:50:15 PST" finished-at="2021-01-05T02:51:54 PST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="99236" started-at="2021-01-05T02:50:15 PST" finished-at="2021-01-05T02:51:54 PST">
+      <class name="redbus.frontpage">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:redbus.frontpage@b4893b]" name="initialize" is-config="true" duration-ms="18023" started-at="2021-01-05T02:50:15 PST" finished-at="2021-01-05T02:50:33 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="open()[pri:1, instance:redbus.frontpage@b4893b]" name="open" duration-ms="54459" started-at="2021-01-05T02:50:33 PST" finished-at="2021-01-05T02:51:27 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="second()[pri:2, instance:redbus.frontpage@b4893b]" name="second" duration-ms="23699" started-at="2021-01-05T02:51:29 PST" finished-at="2021-01-05T02:51:52 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- second -->
+        <test-method status="PASS" signature="close()[pri:0, instance:redbus.frontpage@b4893b]" name="close" is-config="true" duration-ms="956" started-at="2021-01-05T02:51:53 PST" finished-at="2021-01-05T02:51:54 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- redbus.frontpage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
